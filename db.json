@@ -1,8 +1,8 @@
 {
   "todos": [
-    { "id": 1, "title": "Todo 1", "isCompleted": false, "author": "iversonLv", cat: "life" },
-    { "id": 2, "title": "Todo 2", "isCompleted": true, "author": "typicode", cat: "work" },
-    { "id": 3, "title": "Todo 3", "isCompleted": false, "author": "iversonLv", cat: "entertainment"  }
+    { "id": 1, "title": "Todo 1", "isCompleted": false, "author": "iversonLv", "cat": "life" },
+    { "id": 2, "title": "Todo 2", "isCompleted": true, "author": "typicode", "cat": "work" },
+    { "id": 3, "title": "Todo 3", "isCompleted": false, "author": "iversonLv", "cat": "entertainment"  }
   ],
   "profile": {
     "name": "iversonLv"
